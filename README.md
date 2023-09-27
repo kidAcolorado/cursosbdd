@@ -52,7 +52,7 @@ Puedes utilizar esta aplicación para realizar operaciones CRUD en libros. Aquí
 {
   "codigo": "1234",
   "nombre": "Informática aplicada",
-  "numeroHoras": 200
+  "numeroHoras": 200,
   "precio": 400
 }
 ```
@@ -86,7 +86,7 @@ Puedes utilizar esta aplicación para realizar operaciones CRUD en libros. Aquí
 {
   "codigo": "1234",
   "nombre": "Informática aplicada",
-  "numeroHoras": 200
+  "numeroHoras": 200,
   "precio": 400
 }
 ```
