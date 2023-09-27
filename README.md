@@ -55,6 +55,7 @@ Puedes utilizar esta aplicación para realizar operaciones CRUD en libros. Aquí
   "numeroHoras": 200
   "precio": 400
 }
+```
 
 ### Dar de alta varios cursos
 - Método: POST
@@ -75,7 +76,7 @@ Puedes utilizar esta aplicación para realizar operaciones CRUD en libros. Aquí
     "precio": 150
   }
 ]
-
+```
 
 ### Actualizar la información de un curso
 - Método: PUT
@@ -88,7 +89,7 @@ Puedes utilizar esta aplicación para realizar operaciones CRUD en libros. Aquí
   "numeroHoras": 200
   "precio": 400
 }
-
+```
 
 ### Eliminar un curso por su codigo
 - Método: DELETE
